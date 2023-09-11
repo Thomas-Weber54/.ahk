@@ -1,0 +1,42 @@
+!v::
+
+	Texte := 
+	Texte1 := 
+	Texte2 := 
+	Texte3 := 
+	Texte4 := 
+	
+	SetKeyDelay, 0, 0
+	SendInput, %texte%
+	Send {Enter}
+	Send {Enter}
+
+	SetKeyDelay, 0, 0
+	SendInput, %texte1%
+	Send {Enter}
+	Send {Enter}
+
+	SetKeyDelay, 0, 0
+	SendInput, %texte5%
+	Send {Enter}
+	Send {Enter}
+	Send {Enter}
+	Send {Enter}
+
+	SetKeyDelay, 0, 0
+	SendInput, %texte6%
+	Send {Enter}
+	Send {Enter}
+
+	SetKeyDelay, 0, 0
+	SendInput, %texte2%
+	Send {Enter}
+	Send {Enter}
+
+	SetKeyDelay, 0, 0
+	SendInput, %texte3%
+	Send {Enter}
+	
+	SetKeyDelay, 0, 0
+	SendInput, %texte4%
+	
