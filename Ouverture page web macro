@@ -1,0 +1,5 @@
+SC029:: ; #correspond à la touche ² du clavier
+
+    Run, chrome.exe "#Adresse du site#"
+
+return
